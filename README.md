@@ -21,7 +21,7 @@
 * `common_support_plot.png`：倾向得分共同支持区域分析图（展示`discard = "both"`条件下离群样本的精准修剪）。
 * `density_plot.png`：各估计方法在四种场景下的核密度分布图（直观呈现偏误与方差的演变）。
 * `R code.R`：完整代码展示，包括生成模拟数据、运行估计以及输出主要图表。
-* `Gemini-_33.md`：完整AI使用记录。
+* `AI Report_Gemini.md`：完整AI使用记录。
 * `Paper Materials.docx`：提交所评价论文的题名、作者、期刊、年份、DOI 或稳定链接。
 * `Literature.pdf`：研究报告中所评价的Heckman, Ichimura, &Todd (1997) 文献原文。
 
