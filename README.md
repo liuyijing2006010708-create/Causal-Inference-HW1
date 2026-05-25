@@ -25,7 +25,7 @@
 * `Paper Materials.docx`：提交所评价论文的题名、作者、期刊、年份、DOI 或稳定链接。
 * `Literature.pdf`：研究报告中所评价的Heckman, Ichimura, &Todd (1997) 文献原文。
 
-## 快速查看
+## 查看方式
 
 你可以直接点击本仓库中的`Report.md`文件在线阅读完整报告。
 
